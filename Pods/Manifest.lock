@@ -1,0 +1,16 @@
+PODS:
+  - Splitflap (4.1.0)
+
+DEPENDENCIES:
+  - Splitflap (~> 4.1.0)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Splitflap
+
+SPEC CHECKSUMS:
+  Splitflap: 20029bf87d958beb955a6ee5d2e2622e41df34bf
+
+PODFILE CHECKSUM: 0a96f7746355e11ec48e3113714875335653e489
+
+COCOAPODS: 1.11.3
